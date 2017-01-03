@@ -1,0 +1,50 @@
+.btn-class{
+   position: absolute; 
+   top: 150px; 
+   margin: 0 auto; 
+   width: 50%; 
+}
+.home{
+  width:50%;
+  margin:0 auto;
+}
+.navi-bar{
+  font-family: Caveat;
+  font-size: 20px;
+  background-color:#CCC;
+  margin: 10px;
+  panel: panel-default;
+}
+
+p{
+  font-family:Monospace;
+  text-align:center;
+}
+
+.contact-info{
+  font-family:Monospace;
+}
+
+.name-heading{
+  text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
+	color: #9c8468;
+	opacity: 0.3;
+	font: 30px 'Museo700';
+}
+
+.about{
+  width:50%;
+  margin:0 auto;
+  margin-bottom:40px;
+}
+.about-img{
+    width:100px;
+    border-radius:50%;
+}
+.about-info{
+  margin-top:0px;
+}
+
+
+
+
